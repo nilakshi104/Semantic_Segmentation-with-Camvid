@@ -57,4 +57,3 @@ r,g,b,name
 0 0 0		Void
 64 192 0	Wall
 ```
-### Results:
